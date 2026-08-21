@@ -10,6 +10,7 @@ Luanti (formerly minetest) projects and services
 ## Services
 
 * [Service status 🔗](https://status.luanti.ch)
+* [Weblate 🔗](https://translate.luanti.ch)
 * [Public server monitoring 🔗](https://monitoring.luanti.ch)
 * [Hosting](../hosting)
 * [Blockexchange 🔗](https://blockexchange.minetest.ch)
